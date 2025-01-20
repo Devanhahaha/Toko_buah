@@ -1,0 +1,6 @@
+projectKey=Toko_buah
+serverUrl=http://localhost:9000
+serverVersion=10.7.0.96327
+dashboardUrl=http://localhost:9000/dashboard?id=Toko_buah
+ceTaskId=2923edbd-5230-4bf0-8e34-c08ddfe23db5
+ceTaskUrl=http://localhost:9000/api/ce/task?id=2923edbd-5230-4bf0-8e34-c08ddfe23db5
